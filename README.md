@@ -11,12 +11,12 @@ ST0244 - Programming Languages Programming · EAFIT
 
 ## Estructura del repositorio
 ```
-README.md
-curva_binaria_P4.pbm
 Haskell/
   Main.hs
 Prolog/
   main.pl
+README.md
+curva_binaria_P4.pbm
 ```
 
 ## Cómo ejecutar la solución en Haskell
